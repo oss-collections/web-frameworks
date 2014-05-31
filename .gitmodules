@@ -1,0 +1,72 @@
+[submodule "ruby/rails"]
+	path = ruby/rails
+	url = https://github.com/rails/rails.git
+[submodule "ruby/sinatra"]
+	path = ruby/sinatra
+	url = https://github.com/sinatra/sinatra.git
+[submodule "python/django"]
+	path = python/django
+	url = https://github.com/django/django.git
+[submodule "python/flask"]
+	path = python/flask
+	url = https://github.com/mitsuhiko/flask.git
+[submodule "python/tornado"]
+	path = python/tornado
+	url = https://github.com/tornadoweb/tornado.git
+[submodule "python/twisted"]
+	path = python/twisted
+	url = https://github.com/twisted/twisted.git
+[submodule "php/laravel"]
+	path = php/laravel
+	url = https://github.com/laravel/laravel.git
+[submodule "js/angular.js"]
+	path = js/angular.js
+	url = https://github.com/angular/angular.js.git
+[submodule "js/express"]
+	path = js/express
+	url = https://github.com/visionmedia/express.git
+[submodule "js/node"]
+	path = js/node
+	url = https://github.com/joyent/node.git
+[submodule "js/phantomjs"]
+	path = js/phantomjs
+	url = https://github.com/ariya/phantomjs.git
+[submodule "js/prototype"]
+	path = js/prototype
+	url = https://github.com/sstephenson/prototype.git
+[submodule "js/socket.io"]
+	path = js/socket.io
+	url = https://github.com/Automattic/socket.io.git
+[submodule "js/backbone"]
+	path = js/backbone
+	url = https://github.com/jashkenas/backbone.git
+[submodule "js/d3"]
+	path = js/d3
+	url = https://github.com/mbostock/d3.git
+[submodule "js/jquery"]
+	path = js/jquery
+	url = https://github.com/jquery/jquery.git
+[submodule "js/flot"]
+	path = js/flot
+	url = https://github.com/flot/flot.git
+[submodule "js/underscore"]
+	path = js/underscore
+	url = https://github.com/jashkenas/underscore.git
+[submodule "go/goji"]
+	path = go/goji
+	url = https://github.com/zenazn/goji.git
+[submodule "go/revel"]
+	path = go/revel
+	url = https://github.com/revel/revel.git
+[submodule "js/jade"]
+	path = js/jade
+	url = https://github.com/visionmedia/jade.git
+[submodule "js/meteor"]
+	path = js/meteor
+	url = https://github.com/meteor/meteor.git
+[submodule "js/react"]
+	path = js/react
+	url = https://github.com/facebook/react.git
+[submodule "js/famous"]
+	path = js/famous
+	url = https://github.com/Famous/famous.git
