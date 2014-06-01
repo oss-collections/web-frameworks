@@ -73,3 +73,9 @@
 [submodule "js/bootstrap"]
 	path = js/bootstrap
 	url = https://github.com/twbs/bootstrap.git
+[submodule "php/cakephp"]
+	path = php/cakephp
+	url = git://github.com/cakephp/cakephp.git
+[submodule "php/drupal"]
+	path = php/drupal
+	url = http://git.drupal.org/project/drupal.git
