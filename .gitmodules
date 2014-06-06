@@ -80,5 +80,5 @@
 	path = php/drupal
 	url = http://git.drupal.org/project/drupal.git
 [submodule "symfony"]
-	path = symfony
+	path = php/symfony
 	url = https://github.com/symfony/symfony.git
