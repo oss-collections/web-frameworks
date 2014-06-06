@@ -79,3 +79,6 @@
 [submodule "php/drupal"]
 	path = php/drupal
 	url = http://git.drupal.org/project/drupal.git
+[submodule "symfony"]
+	path = symfony
+	url = https://github.com/symfony/symfony.git
