@@ -82,3 +82,6 @@
 [submodule "symfony"]
 	path = php/symfony
 	url = https://github.com/symfony/symfony.git
+[submodule "ruby/lotus"]
+	path = ruby/lotus
+	url = https://github.com/lotus/lotus.git
